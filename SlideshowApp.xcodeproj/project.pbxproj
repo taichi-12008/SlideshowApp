@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA17AD8825A4A08100AE2341 /* sample1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BA17AD8725A4A08000AE2341 /* sample1.jpeg */; };
+		BA17AD8A25A4A09800AE2341 /* sample2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BA17AD8925A4A09800AE2341 /* sample2.jpeg */; };
+		BA17AD9225A4A33000AE2341 /* sample3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BA17AD9125A4A33000AE2341 /* sample3.jpeg */; };
 		BA3A3C8C259F996300DA5B23 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA3A3C8B259F996300DA5B23 /* AppDelegate.swift */; };
 		BA3A3C8E259F996300DA5B23 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA3A3C8D259F996300DA5B23 /* SceneDelegate.swift */; };
 		BA3A3C90259F996300DA5B23 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA3A3C8F259F996300DA5B23 /* ViewController.swift */; };
@@ -17,6 +20,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BA17AD8725A4A08000AE2341 /* sample1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample1.jpeg; sourceTree = "<group>"; };
+		BA17AD8925A4A09800AE2341 /* sample2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample2.jpeg; sourceTree = "<group>"; };
+		BA17AD9125A4A33000AE2341 /* sample3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample3.jpeg; sourceTree = "<group>"; };
 		BA3A3C88259F996300DA5B23 /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA3A3C8B259F996300DA5B23 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BA3A3C8D259F996300DA5B23 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +64,9 @@
 		BA3A3C8A259F996300DA5B23 /* SlideshowApp */ = {
 			isa = PBXGroup;
 			children = (
+				BA17AD8725A4A08000AE2341 /* sample1.jpeg */,
+				BA17AD8925A4A09800AE2341 /* sample2.jpeg */,
+				BA17AD9125A4A33000AE2341 /* sample3.jpeg */,
 				BA3A3C8B259F996300DA5B23 /* AppDelegate.swift */,
 				BA3A3C8D259F996300DA5B23 /* SceneDelegate.swift */,
 				BA3A3C8F259F996300DA5B23 /* ViewController.swift */,
@@ -130,6 +139,9 @@
 			files = (
 				BA3A3C98259F996400DA5B23 /* LaunchScreen.storyboard in Resources */,
 				BA3A3C95259F996400DA5B23 /* Assets.xcassets in Resources */,
+				BA17AD8A25A4A09800AE2341 /* sample2.jpeg in Resources */,
+				BA17AD9225A4A33000AE2341 /* sample3.jpeg in Resources */,
+				BA17AD8825A4A08100AE2341 /* sample1.jpeg in Resources */,
 				BA3A3C93259F996300DA5B23 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

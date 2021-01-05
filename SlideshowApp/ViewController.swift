@@ -77,11 +77,11 @@ class ViewController: UIViewController {
     @IBOutlet weak var image1: UIImageView!
     
     //ViewController内で、sample1の画像ファイルをimg1という名前で扱えるように設定
-    var img1 = UIImage(named:"sample1")
+    var img1 = UIImage(named:"sample1.jpeg")
     
-    var img2 = UIImage(named:"sample2")
+    var img2 = UIImage(named:"sample2.jpeg")
     
-    var img3 = UIImage(named:"sample3")
+    var img3 = UIImage(named:"sample3.jpeg")
 
     override func viewDidLoad() {
         super.viewDidLoad()
